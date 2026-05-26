@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Android & Linux enthusiast passionate about custom ROMs, kernels, and open-source development.<br><br>I enjoy experimenting with system customization, debugging, optimization, and Linux-based build environments while continuously learning through hands-on projects.<br><br>Always exploring, building, breaking, and improving.
+Android & Linux enthusiast passionate about custom ROMs, kernels, and open-source development.<br><br>I enjoy experimenting with system customization, debugging, optimization, and Linux-based build environments while continuously learning through hands-on projects.<br><br>Always exploring, building, breaking, and improving.
 
 
 ## 🌐 Socials:
